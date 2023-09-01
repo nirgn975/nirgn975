@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nir Galon, I am a tech enthusiast & an open-source believer. I mainly code in TypeScript (Node.js & Angular), Python & Go. I write a blog called "Stories of a Lifelong Student" about computer science, open source, web development, pen testing, etc.
+My name is Nir Galon, I am a tech enthusiast & an open-source believer. I mainly code in TypeScript (Node.js & Vue.js), Python & a little bit of Go. I write a blog called "Stories of a Lifelong Student" about computer science, open source, web development, pen testing, etc.
 
 Find out more about me & feel free to connect me here:
 
